@@ -1,0 +1,19 @@
+{
+  "name": "band-tracker-angular",
+  "version": "1.0.0",
+  "description": "Building Band Tracker Site through Angular Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-King/Band-Tracker-Angular.git"
+  },
+  "author": "Joseph King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-King/Band-Tracker-Angular/issues"
+  },
+  "homepage": "https://github.com/Joseph-King/Band-Tracker-Angular#readme"
+}
