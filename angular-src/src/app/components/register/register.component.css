@@ -1,0 +1,25 @@
+label {
+    float: left;
+}
+input {
+    float: right;
+}
+
+.register-form-div {
+    background-color: dimgray;
+    text-align: center;
+    margin-top: 25px;
+    width: 460px;
+    height: 520px;
+}
+.register-form {
+    width: 400px;
+    margin-left: 25px;
+    height: 450px;
+    padding-top: 10px;
+    background-color: whitesmoke;
+    color: black;
+    border-style: solid;
+    border-color: rebeccapurple;
+    border-width: 5px;
+}

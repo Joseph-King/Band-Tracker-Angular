@@ -9,11 +9,13 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { LogoutComponent } from './components/logout/logout.component';
 import { ProfileComponent } from './components/profile/profile.component';
+import { YourShowsComponent } from './components/your-shows/your-shows.component';
 
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
   {path: 'shows', component: ShowsComponent},
+  {path: 'your-shows', component: YourShowsComponent},
   {path: 'artists', component: ArtistsComponent},
   {path: 'venues', component: VenuesComponent},
   {path: 'login', component: LoginComponent},

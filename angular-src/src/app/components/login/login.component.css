@@ -1,0 +1,26 @@
+label {
+    float: left;
+}
+input {
+    float: right;
+}
+
+.login-form-div {
+    background-color: dimgray;
+    margin-top: 200px;
+    margin-left: 40%;
+    text-align: center;
+    width: 360px;
+    height: 220px;
+}
+.login-form {
+    width: 300px;
+    margin-left: 25px;
+    height: 150px;
+    padding-top: 10px;
+    background-color: whitesmoke;
+    color: black;
+    border-style: solid;
+    border-color: rebeccapurple;
+    border-width: 5px;
+}
